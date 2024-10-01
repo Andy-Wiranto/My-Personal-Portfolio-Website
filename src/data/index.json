@@ -1,0 +1,38 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Develop engaging, responsive, and user-friendly websites using HTML, CSS, and JavaScript. Focusing on delivering seamless interactions and smooth user experiences"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Develop secure and scalable back-end systems using ASP.NET and other technologies like Node.js. Handle databases, APIs, and ensure efficient server operations."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Design easy-to-use, visually appealing interfaces. Create prototypes and wireframes to ensure that the product is not only pleasing but also easy to use and navigate."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Skills",
+      "description": "I have a diverse skill set in Python, C, Java, C++, and React. I'm also experienced in SQL, database management, ASP.NET for back-end development, and Android development with Java."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/project.png",
+      "title": "HI-Toyz",
+      "description": "HI-Toyz is an engaging platform designed for toy enthusiasts and parents, providing comprehensive information and updates on the latest about toys. Built using HTML, CSS, and JavaScript, the website and app offer a user-friendly interface that allows visitors to easily navigate through a wide range of toy categories, detailed product descriptions, and the latest event in the toy industry.",
+      "link": "View In Github"
+    }
+  ]
+  
+}
